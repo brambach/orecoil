@@ -7,7 +7,7 @@
 ## 📖 Overview
 **Orecoil** takes the classic Snake formula and adds a single, clean strategic twist. You guide a serpent around a grid, eating "Ore" to grow, but with a catch: every piece of Ore fills a meter.
 
-When full, this meter allows you to trigger a **Shield**, forgiving your next collision. This creates a risk-reward loop where you can push your luck for a high score or "cash in" your meter to survive a tight corner. There are no complex crafting trees or RPG systems—just a familiar arcade feel with an earned safety valve.
+When full, this meter allows you to trigger a **Shield**, forgiving your next collision. This creates a risk-reward loop where you can push your luck for a high score or "cash in" your meter to survive a tight corner. There are no crafting trees or RPG systems, just a familiar arcade feel with an earned safety valve.
 
 ---
 
@@ -56,7 +56,7 @@ When full, this meter allows you to trigger a **Shield**, forgiving your next co
 ## 🚀 Roadmap & Stretch Goals
 
 * **Core Release:** Polished single-arena gameplay with the Shield mechanic.
-* **Stretch Goal (Trim Mechanic):** A potential feature allowing players to spend a full Shield charge to pause the game and remove the last three tail segments—a "panic button" for impossible situations.
+* **Stretch Goal (Trim Mechanic):** A potential feature allowing players to spend a full Shield charge to pause the game and remove the last three tail segments. It's a "panic button" for impossible situations.
 
 ---
 
